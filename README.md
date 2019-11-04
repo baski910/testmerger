@@ -1,5 +1,5 @@
 # testmerger
 
-added some more line
+added one more line
 
 a new line here
